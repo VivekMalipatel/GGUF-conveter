@@ -1,5 +1,6 @@
-# Ignore GGUF folder
 .gguf/
-
-# Ignore the llama.cpp folder
 llama.cpp/
+models/
+downloads/
+app.log
+__pycache__/converter.cpython-312.pyc

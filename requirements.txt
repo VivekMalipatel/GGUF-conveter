@@ -14,5 +14,7 @@ torchaudio --index-url https://download.pytorch.org/whl/cpu
 # SafeTensors
 safetensors
 
+gunicorn
+
 # Import requirements from llama.cpp
 -r ./llama.cpp/requirements.txt
