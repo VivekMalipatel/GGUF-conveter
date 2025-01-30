@@ -1,0 +1,18 @@
+# Flask and related dependencies
+Flask
+Flask-Mail
+Werkzeug
+
+# Huggingface Hub
+huggingface_hub
+
+# PyTorch and related dependencies
+torch --index-url https://download.pytorch.org/whl/cpu
+torchvision --index-url https://download.pytorch.org/whl/cpu
+torchaudio --index-url https://download.pytorch.org/whl/cpu
+
+# SafeTensors
+safetensors
+
+# Import requirements from llama.cpp
+-r ./llama.cpp/requirements.txt
