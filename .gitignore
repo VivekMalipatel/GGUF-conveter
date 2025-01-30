@@ -1,0 +1,5 @@
+# Ignore GGUF folder
+.gguf/
+
+# Ignore the llama.cpp folder
+llama.cpp/
