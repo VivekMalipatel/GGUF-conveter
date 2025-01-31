@@ -1,6 +1,5 @@
 # Flask and related dependencies
-Flask
-Flask-Mail
+fastapi[standard]
 Werkzeug
 
 # Huggingface Hub
